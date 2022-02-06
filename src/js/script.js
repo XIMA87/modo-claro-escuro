@@ -1,4 +1,4 @@
-// Pequeno exercicio de criação da funcionalidade Modo Escuro e Modo Claro.
+// Pequeno projeto de criação da funcionalidade Modo Escuro e Modo Claro.
 
 function changeMode() {
     changeClasses();
